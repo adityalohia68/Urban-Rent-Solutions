@@ -1,0 +1,21 @@
+Models Result -
+
+Day: 03/26/24 Date: 19:57:46
+
+LinearRegression using cross_val_score with 10 parts
+Mean: 5.037075469631148
+Standard deviation: 1.0611500161911795
+_______________________________________________________________________________________________________
+
+Day: 03/26/24 Date: 19:58:07
+
+DecisionTreeRegressor using cross_val_score with 10 parts
+Mean: 4.553114115348511
+Standard deviation: 0.936291998402569
+_______________________________________________________________________________________________________
+
+Day: 03/26/24 Date: 19:58:14
+
+RandomForestRegressor using cross_val_score with 10 parts
+Mean: 3.314404484162791
+Standard deviation: 0.7515302817897291
